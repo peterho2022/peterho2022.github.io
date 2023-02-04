@@ -9,7 +9,7 @@
     <pubDate>Sat, 04 Feb 2023 13:59:00 &#43;0800</pubDate>
     <author>PeterHo</author>
     <guid>http://example.org/posts/first_post/</guid>
-    <description><![CDATA[測試頁面]]></description>
+    <description><![CDATA[測試頁面 $$ \ce{Hg^2+ -&gt;[I-] HgI2 -&gt;[I-] [Hg^{II}I4]^2-} $$]]></description>
 </item>
 </channel>
 </rss>
