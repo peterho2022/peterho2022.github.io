@@ -1,17 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>我的全新 Hugo 网站</title>
+        <title>我的全新 Hugo 網站</title>
         <link>http://example.org/</link>
-        <description>This is my cool site</description>
+        <description>Peter&#39;s Pages</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 04 Feb 2023 13:59:00 &#43;0800</lastBuildDate>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>First_post</title>
     <link>http://example.org/posts/first_post/</link>
     <pubDate>Sat, 04 Feb 2023 13:59:00 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>PeterHo</author>
     <guid>http://example.org/posts/first_post/</guid>
-    <description><![CDATA[123456]]></description>
+    <description><![CDATA[測試頁面]]></description>
 </item>
 </channel>
 </rss>
