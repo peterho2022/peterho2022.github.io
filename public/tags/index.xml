@@ -2,14 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 彼得叩叩</title>
-    <link>https://example.org/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on 彼得叩叩</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>youremail@example.com (Peter)</managingEditor>
-    <webMaster>youremail@example.com (Peter)</webMaster>
-    <copyright>© 2024 Peter</copyright>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>mylifeai1116@gmail.com (Peter)</managingEditor>
+    <webMaster>mylifeai1116@gmail.com (Peter)</webMaster>
+    <copyright>© 2025 Peter</copyright>
+    <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Space</title>
+      <link>http://localhost:1313/tags/space/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <author>mylifeai1116@gmail.com (Peter)</author>
+      <guid>http://localhost:1313/tags/space/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>歡迎來到我部落格 ！ on 彼得叩叩</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in 歡迎來到我部落格 ！ on 彼得叩叩</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mylifeai1116@gmail.com (Peter)</managingEditor>
+    <webMaster>mylifeai1116@gmail.com (Peter)</webMaster>
+    <copyright>© 2025 Peter</copyright>
+    <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>該學什麼程式語言</title>
+      <link>http://localhost:1313/posts/how_to_choice_programming_language/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <author>mylifeai1116@gmail.com (Peter)</author>
+      <guid>http://localhost:1313/posts/how_to_choice_programming_language/</guid>
+      <description>我的第一篇文章</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/how_to_choice_programming_language/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>關於我</title>
+      <link>http://localhost:1313/posts/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mylifeai1116@gmail.com (Peter)</author>
+      <guid>http://localhost:1313/posts/about/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
