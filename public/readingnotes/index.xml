@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>reading ！ on 彼得叩叩</title>
-    <link>http://localhost:9319/readingnotes/</link>
+    <link>http://localhost:7568/readingnotes/</link>
     <description>Recent content in reading ！ on 彼得叩叩</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mylifeai1116@gmail.com (Peter)</managingEditor>
     <webMaster>mylifeai1116@gmail.com (Peter)</webMaster>
     <copyright>© 2025 Peter</copyright>
-    <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:9319/readingnotes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:7568/readingnotes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>My Sec Reading Notes</title>
-      <link>http://localhost:9319/readingnotes/reading-notes-2/</link>
+      <link>http://localhost:7568/readingnotes/reading-notes-2/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
       <author>mylifeai1116@gmail.com (Peter)</author>
-      <guid>http://localhost:9319/readingnotes/reading-notes-2/</guid>
+      <guid>http://localhost:7568/readingnotes/reading-notes-2/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>《一人公司》讀後心得</title>
-      <link>http://localhost:9319/readingnotes/company-of-one/</link>
+      <link>http://localhost:7568/readingnotes/company-of-one/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
       <author>mylifeai1116@gmail.com (Peter)</author>
-      <guid>http://localhost:9319/readingnotes/company-of-one/</guid>
+      <guid>http://localhost:7568/readingnotes/company-of-one/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:9319/readingnotes/company-of-one/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:7568/readingnotes/company-of-one/feature.png" />
     </item>
     
   </channel>
