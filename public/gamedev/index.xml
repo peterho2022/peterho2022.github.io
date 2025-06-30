@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>game ！ on 彼得叩叩</title>
-    <link>http://localhost:11468/gamedev/</link>
-    <description>Recent content in game ！ on 彼得叩叩</description>
+    <title>遊戲開發 on 彼得叩叩</title>
+    <link>http://localhost:13260/gamedev/</link>
+    <description>Recent content in 遊戲開發 on 彼得叩叩</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mylifeai1116@gmail.com (Peter)</managingEditor>
     <webMaster>mylifeai1116@gmail.com (Peter)</webMaster>
     <copyright>© 2025 Peter</copyright>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:11468/gamedev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:13260/gamedev/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My First Game Post</title>
-      <link>http://localhost:11468/gamedev/game/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <title>2025 Garena Game Jam 心得：從零組隊到做出一款遊戲！</title>
+      <link>http://localhost:13260/gamedev/2025-garena-game-jam/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
       <author>mylifeai1116@gmail.com (Peter)</author>
-      <guid>http://localhost:11468/gamedev/game/</guid>
+      <guid>http://localhost:13260/gamedev/2025-garena-game-jam/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:13260/gamedev/2025-garena-game-jam/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>【20 Games 挑戰 #2】Jetpack Joyride </title>
+      <link>http://localhost:13260/gamedev/20-games-2-jetpack-joyride/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <author>mylifeai1116@gmail.com (Peter)</author>
+      <guid>http://localhost:13260/gamedev/20-games-2-jetpack-joyride/</guid>
       <description></description>
       
     </item>

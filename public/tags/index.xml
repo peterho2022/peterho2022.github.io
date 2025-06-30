@@ -2,31 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 彼得叩叩</title>
-    <link>http://localhost:11468/tags/</link>
+    <link>http://localhost:13260/tags/</link>
     <description>Recent content in Tags on 彼得叩叩</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mylifeai1116@gmail.com (Peter)</managingEditor>
     <webMaster>mylifeai1116@gmail.com (Peter)</webMaster>
     <copyright>© 2025 Peter</copyright>
-    <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:11468/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:13260/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GameDev</title>
+      <link>http://localhost:13260/tags/gamedev/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <author>mylifeai1116@gmail.com (Peter)</author>
+      <guid>http://localhost:13260/tags/gamedev/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Programe</title>
-      <link>http://localhost:11468/tags/programe/</link>
+      <link>http://localhost:13260/tags/programe/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
       <author>mylifeai1116@gmail.com (Peter)</author>
-      <guid>http://localhost:11468/tags/programe/</guid>
+      <guid>http://localhost:13260/tags/programe/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>About</title>
-      <link>http://localhost:11468/tags/about/</link>
+      <link>http://localhost:13260/tags/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>mylifeai1116@gmail.com (Peter)</author>
-      <guid>http://localhost:11468/tags/about/</guid>
+      <guid>http://localhost:13260/tags/about/</guid>
       <description></description>
       
     </item>

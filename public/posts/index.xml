@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>歡迎來到我部落格 ！ on 彼得叩叩</title>
-    <link>http://localhost:11468/posts/</link>
+    <link>http://localhost:13260/posts/</link>
     <description>Recent content in 歡迎來到我部落格 ！ on 彼得叩叩</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mylifeai1116@gmail.com (Peter)</managingEditor>
     <webMaster>mylifeai1116@gmail.com (Peter)</webMaster>
     <copyright>© 2025 Peter</copyright>
-    <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:11468/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:13260/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>該學什麼程式語言</title>
-      <link>http://localhost:11468/posts/how_to_choice_programming_language/</link>
+      <link>http://localhost:13260/posts/how_to_choice_programming_language/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
       <author>mylifeai1116@gmail.com (Peter)</author>
-      <guid>http://localhost:11468/posts/how_to_choice_programming_language/</guid>
+      <guid>http://localhost:13260/posts/how_to_choice_programming_language/</guid>
       <description>我的第一篇文章</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:11468/posts/how_to_choice_programming_language/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:13260/posts/how_to_choice_programming_language/feature.jpg" />
     </item>
     
   </channel>

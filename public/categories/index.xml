@@ -2,31 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 彼得叩叩</title>
-    <link>http://localhost:11468/categories/</link>
+    <link>http://localhost:13260/categories/</link>
     <description>Recent content in Categories on 彼得叩叩</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mylifeai1116@gmail.com (Peter)</managingEditor>
     <webMaster>mylifeai1116@gmail.com (Peter)</webMaster>
     <copyright>© 2025 Peter</copyright>
-    <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:11468/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:13260/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Reading-Notes</title>
-      <link>http://localhost:11468/categories/reading-notes/</link>
-      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <link>http://localhost:13260/categories/reading-notes/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       <author>mylifeai1116@gmail.com (Peter)</author>
-      <guid>http://localhost:11468/categories/reading-notes/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Game</title>
-      <link>http://localhost:11468/categories/game/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <author>mylifeai1116@gmail.com (Peter)</author>
-      <guid>http://localhost:11468/categories/game/</guid>
+      <guid>http://localhost:13260/categories/reading-notes/</guid>
       <description></description>
       
     </item>
