@@ -3,102 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:7568/newsletter/2025w08/</loc>
+    <loc>http://localhost:11468/newsletter/2025w08/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:7568/newsletter/</loc>
+    <loc>http://localhost:11468/newsletter/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:7568/</loc>
+    <loc>http://localhost:11468/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:7568/newsletter/2025w06/</loc>
+    <loc>http://localhost:11468/newsletter/2025w06/</loc>
     <lastmod>2025-02-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:7568/newsletter/2025w04/</loc>
+    <loc>http://localhost:11468/newsletter/2025w04/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:7568/newsletter/2025w03/</loc>
+    <loc>http://localhost:11468/newsletter/2025w03/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:7568/newsletter/2025w02/</loc>
+    <loc>http://localhost:11468/newsletter/2025w02/</loc>
     <lastmod>2025-01-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:7568/newsletter/2025w01/</loc>
+    <loc>http://localhost:11468/newsletter/2025w01/</loc>
     <lastmod>2025-01-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:7568/readingnotes/reading-notes-2/</loc>
+    <loc>http://localhost:11468/readingnotes/reading-notes-2/</loc>
     <lastmod>2025-01-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:7568/readingnotes/</loc>
+    <loc>http://localhost:11468/readingnotes/</loc>
     <lastmod>2025-01-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:7568/gamedev/</loc>
+    <loc>http://localhost:11468/gamedev/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:7568/gamedev/game/</loc>
+    <loc>http://localhost:11468/gamedev/game/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:7568/posts/</loc>
+    <loc>http://localhost:11468/posts/</loc>
     <lastmod>2024-12-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:7568/posts/how_to_choice_programming_language/</loc>
+    <loc>http://localhost:11468/posts/how_to_choice_programming_language/</loc>
     <lastmod>2024-12-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:7568/readingnotes/company-of-one/</loc>
+    <loc>http://localhost:11468/readingnotes/company-of-one/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:7568/ai/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:7568/about/</loc>
+    <loc>http://localhost:11468/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

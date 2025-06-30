@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game on 彼得叩叩</title>
-    <link>http://localhost:7568/categories/game/</link>
+    <link>http://localhost:11468/categories/game/</link>
     <description>Recent content in Game on 彼得叩叩</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mylifeai1116@gmail.com (Peter)</managingEditor>
     <webMaster>mylifeai1116@gmail.com (Peter)</webMaster>
     <copyright>© 2025 Peter</copyright>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:7568/categories/game/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:11468/categories/game/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>My First Game Post</title>
-      <link>http://localhost:7568/gamedev/game/</link>
+      <link>http://localhost:11468/gamedev/game/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <author>mylifeai1116@gmail.com (Peter)</author>
-      <guid>http://localhost:7568/gamedev/game/</guid>
+      <guid>http://localhost:11468/gamedev/game/</guid>
       <description></description>
       
     </item>
