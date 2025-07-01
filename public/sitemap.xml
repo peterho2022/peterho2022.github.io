@@ -3,103 +3,121 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:13260/gamedev/20-games-2-jetpack-joyride/</loc>
+    <loc>http://localhost:1749/gamedev/2025-garena-game-jam/</loc>
+    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1749/</loc>
+    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1749/gamedev/</loc>
+    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1749/gamedev/20-games-2-jetpack-joyride/</loc>
     <lastmod>2025-05-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:13260/</loc>
-    <lastmod>2025-05-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1749/gamedev/godot-sidescroller-tutorial-2/</loc>
+    <lastmod>2025-04-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:13260/gamedev/</loc>
-    <lastmod>2025-05-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1749/gamedev/godot-sidescroller-tutorial-1/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:13260/newsletter/2025w08/</loc>
+    <loc>http://localhost:1749/newsletter/2025w08/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:13260/newsletter/</loc>
+    <loc>http://localhost:1749/newsletter/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:13260/newsletter/2025w06/</loc>
+    <loc>http://localhost:1749/newsletter/2025w06/</loc>
     <lastmod>2025-02-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:13260/newsletter/2025w04/</loc>
+    <loc>http://localhost:1749/newsletter/2025w04/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:13260/newsletter/2025w03/</loc>
+    <loc>http://localhost:1749/newsletter/2025w03/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:13260/newsletter/2025w02/</loc>
+    <loc>http://localhost:1749/newsletter/2025w02/</loc>
     <lastmod>2025-01-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:13260/newsletter/2025w01/</loc>
+    <loc>http://localhost:1749/newsletter/2025w01/</loc>
     <lastmod>2025-01-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:13260/posts/</loc>
+    <loc>http://localhost:1749/posts/</loc>
     <lastmod>2024-12-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:13260/posts/how_to_choice_programming_language/</loc>
+    <loc>http://localhost:1749/posts/how_to_choice_programming_language/</loc>
     <lastmod>2024-12-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:13260/readingnotes/autonomous-life/</loc>
+    <loc>http://localhost:1749/readingnotes/autonomous-life/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:13260/readingnotes/</loc>
+    <loc>http://localhost:1749/readingnotes/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:13260/readingnotes/the-art-of-making-and-marketing-work-that-lasts/</loc>
+    <loc>http://localhost:1749/readingnotes/the-art-of-making-and-marketing-work-that-lasts/</loc>
     <lastmod>2024-04-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:13260/readingnotes/company-of-one/</loc>
+    <loc>http://localhost:1749/readingnotes/company-of-one/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:13260/about/</loc>
+    <loc>http://localhost:1749/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

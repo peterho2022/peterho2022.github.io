@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reading-Notes on 彼得叩叩</title>
-    <link>http://localhost:13260/categories/reading-notes/</link>
+    <link>http://localhost:1749/categories/reading-notes/</link>
     <description>Recent content in Reading-Notes on 彼得叩叩</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mylifeai1116@gmail.com (Peter)</managingEditor>
     <webMaster>mylifeai1116@gmail.com (Peter)</webMaster>
     <copyright>© 2025 Peter</copyright>
-    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:13260/categories/reading-notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1749/categories/reading-notes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>《只工作不上班的自主人生》讀後心得</title>
-      <link>http://localhost:13260/readingnotes/autonomous-life/</link>
+      <link>http://localhost:1749/readingnotes/autonomous-life/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       <author>mylifeai1116@gmail.com (Peter)</author>
-      <guid>http://localhost:13260/readingnotes/autonomous-life/</guid>
+      <guid>http://localhost:1749/readingnotes/autonomous-life/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>《滾動式內容複利》讀後心得</title>
-      <link>http://localhost:13260/readingnotes/the-art-of-making-and-marketing-work-that-lasts/</link>
+      <link>http://localhost:1749/readingnotes/the-art-of-making-and-marketing-work-that-lasts/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
       <author>mylifeai1116@gmail.com (Peter)</author>
-      <guid>http://localhost:13260/readingnotes/the-art-of-making-and-marketing-work-that-lasts/</guid>
+      <guid>http://localhost:1749/readingnotes/the-art-of-making-and-marketing-work-that-lasts/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:13260/readingnotes/the-art-of-making-and-marketing-work-that-lasts/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1749/readingnotes/the-art-of-making-and-marketing-work-that-lasts/feature.png" />
     </item>
     
     <item>
       <title>《一人公司》讀後心得</title>
-      <link>http://localhost:13260/readingnotes/company-of-one/</link>
+      <link>http://localhost:1749/readingnotes/company-of-one/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
       <author>mylifeai1116@gmail.com (Peter)</author>
-      <guid>http://localhost:13260/readingnotes/company-of-one/</guid>
+      <guid>http://localhost:1749/readingnotes/company-of-one/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:13260/readingnotes/company-of-one/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1749/readingnotes/company-of-one/feature.png" />
     </item>
     
   </channel>
